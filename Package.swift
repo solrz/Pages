@@ -21,5 +21,6 @@ let package = Package(
             name: "PagesTests",
             dependencies: ["Pages"]
         )
-    ]
+    ],
+    swiftLanguageVersions: [.v5]
 )
